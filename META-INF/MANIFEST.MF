@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Main-Class: bodevelopment.client.blackout.Installer
+Fabric-Jar-Type: classes
+Fabric-Loom-Mixin-Remap-Type: mixin
+Fabric-Gradle-Version: 8.6
+Fabric-Loom-Version: 1.5.8
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 1.20.4
+Fabric-Tiny-Remapper-Version: 0.10.0
+Fabric-Loader-Version: 0.15.10
+Fabric-Mixin-Version: 0.13.3+mixin.0.8.5
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
+
